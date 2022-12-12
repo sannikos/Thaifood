@@ -33,6 +33,11 @@ nav ul li a {
     font-size: 13px;
 }
 
+.navbar ul li a:hover{
+    background-color: transparent;
+    color: rgba(199, 197, 192, 0.762);
+}
+
 .row{
     display: flex;
     height: 88%;
@@ -60,4 +65,8 @@ p {
     height: 100px;
     margin-top: -100px;
 
+ }
+
+ p{
+    margin-left: 60px;
  }
